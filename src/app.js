@@ -1,5 +1,3 @@
-// Hola
-const variable = 0;
 const bodyParser = require('body-parser');
 const morgan = require('morgan');
 const express = require('express');
